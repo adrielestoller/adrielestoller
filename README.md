@@ -1,7 +1,7 @@
 
 ### **Hello there! I'm Adriel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">**
 
-- 🖥️ I'm a **Programming and Robotics Instructor**.
+- 🖥️ I'm a **Programming and Robotics Professor**.
 - 🔭 I’m currently working as an **Assistant Professor Intern** at CESAR.  
 - 🌱 I’m currently exploring **Educational Innovation**.  
 - 👯 I’m looking to collaborate on **front/back-end applications**, **game development**, or **educational tools**.  
