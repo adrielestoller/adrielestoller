@@ -102,3 +102,7 @@
 
 - **Tecnólogo**: Análise e Desenvolvimento de Sistemas (Senac PE, 2023 - 2025)  
 - **Técnico**: Programação de Jogos Digitais (ETE Cícero Dias, 2019 - 2021)  
+
+<p align="center">
+<img src="https://i.pinimg.com/originals/49/62/45/4962452cdeeb3d32d409be677c3a2d33.gif" style="width: 100%;">
+</p>
